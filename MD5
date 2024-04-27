@@ -1,0 +1,9 @@
+b754b3ff262836af7fb6fc71de3dcc90 *DESCRIPTION
+77a706ec1d58d85f40bd4664dc6fd651 *NAMESPACE
+0d2dfa68b43ae7d603630d0724246ac6 *R/bulkQC.R
+2d0a085995682c9643cd0e13f46935cc *man/bulkQC-package.Rd
+33346b5240aa487fe9acf55b7d635f2d *man/getOutliers.Rd
+8859a444a16e2f693a471b34d760bae2 *man/ind_multi.Rd
+1d66ca1b617eb366b47de3e5dcc218fc *man/ind_uni.Rd
+03be7a898261f01dcd12676aafca0ea4 *man/nVal.Rd
+3dbe709cc913425299c7e229051d0635 *man/site_outliers.Rd

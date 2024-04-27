@@ -1,0 +1,4 @@
+# Version 1.1
+import(isotree, stddiff)
+export("getOutliers", "ind_multi", "ind_uni", "nVal", "site_outliers")
+importFrom("stats", "anova", "lm", "predict", "t.test")
